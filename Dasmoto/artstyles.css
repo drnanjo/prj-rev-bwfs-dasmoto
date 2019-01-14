@@ -1,0 +1,83 @@
+body {
+
+font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    background-color: darkkhaki;
+
+}
+
+.content {
+  max-width: 1000px;
+  margin: auto;
+  background-color: floralwhite;
+  border: 2px inset black;
+}
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    font-size: 4em;
+    color: #ffff4d;
+    font-weight: bold;
+}
+
+
+#green {
+    
+    color: white;
+    background-color: #4dffa6;
+    text-align: left;
+}
+
+
+#pink {
+    
+    color: white;
+    background-color: #ff9999;
+    text-align: left;
+}
+
+
+#blue {
+    
+    color: white;
+    background-color: #4da6ff;
+    text-align: left;
+}
+
+span {
+    
+    color: blue;
+    font-weight: bold;
+}
+
+.product {
+    
+    margin-left: 5px;
+    border: 2px inset black;
+}
+
+h3, p {
+     margin-left: 5px;
+}
+
+
+
+footer p {
+    text-align: center;
+    color: white;
+    background-color: #4d004d;
+    
+    
+}

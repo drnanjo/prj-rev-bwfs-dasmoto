@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <html lang = "en-US">
+ <head>
+ <meta charset = "UTF-8">
+    <title>Dasmoto's Art Supply</title>
+       <link rel = "stylesheet"
+   type = "text/css"
+   href = "artstyles.css" />
+  </head>
+  <body>
+  <header></header>
+  <div></div>
+  <div></div>
+  <div></div>
+
+  </body>
+  <footer></footer>
+</html>
